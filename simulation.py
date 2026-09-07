@@ -1,6 +1,6 @@
 # Simulation of a falling body on Earth
 
-ACCELERATION_G = 10  # m/s^2
+ACCELERATION_G = 10.2  # m/s^2
 TIME = 5.0            # seconds
 
 def calculate_displacement(g, t):
